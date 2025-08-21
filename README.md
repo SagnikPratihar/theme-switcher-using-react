@@ -25,7 +25,7 @@ A modern, responsive React application that demonstrates a clean and intuitive t
 1. **Clone the repository**
    ```bash
    git clone https://github.com/SagnikPratihar/theme-switcher-using-react.git
-   cd 10themeSwitcher
+   cd theme-switcher-using-react
    ```
 
 2. **Install dependencies**
