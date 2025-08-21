@@ -11,9 +11,6 @@ A modern, responsive React application that demonstrates a clean and intuitive t
 - **Persistent Theme**: Theme preference is maintained across sessions
 - **Product Card Demo**: Includes a sample product card to showcase theme changes
 
-## 🚀 Live Demo
-
-[Add your live demo link here]
 
 ## 🛠️ Tech Stack
 
